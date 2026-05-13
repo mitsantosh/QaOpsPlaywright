@@ -1,0 +1,13 @@
+{
+ "username":"standard_user",
+ "password" : "secret_sauce",
+ "productPageTitle" : "Products",
+ "productName" : "Sauce Labs Bolt T-Shirt",
+ "yourcartPageTitle" : "Your Cart",
+ "firstName" : "Santosh",
+ "lastName" : "Mitkari",
+ "postalCode" : "443304",
+ "checkoutYourInfoPageTitle" : "Checkout: Your Information",
+ "checkoutOverviewPageTitle" : "Checkout: Overview",
+ "orderCompleteHeader": "Thank you for your order!"
+}
